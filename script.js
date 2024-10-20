@@ -1,9 +1,9 @@
 const messages = [
-    "You're smarter than you think!",
-    "Believe in yourself, because I believe in you!",
-    "You are capable of amazing things!",
-    "Don't forget to smile, it's your best accessory!",
-    "Take a deep breath, you've got this!",
+    "No matter how tough things get, always remember that you're stronger than any challenge that comes your way.",
+    "I believe in you, in your brilliance, and in everything you’re capable of achieving.",
+    "Even on your hardest days, you shine in ways that make me proud to stand by your side.",
+    "When you feel overwhelmed, know that I'm always here to lift you up and remind you of the amazing person you are.",
+    "You're not alone in this—I’ll always be here, cheering for you, loving you, and believing in you every step of the way.",
     "I love you!"
 ];
 
